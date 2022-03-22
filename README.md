@@ -1,5 +1,5 @@
 # Zenitsu-Counter (NON RESPONSIVE)
-### `USE ONLY IN FULL WINDOW OF DESKTOP`
+### `USE ONLY IN FULL WINDOW OF DESKTOP` [CLICK HERE TO USE THIS WEBSITE](https://dynamic-fenglisu-f35443.netlify.app/).
 
 ### `INSTRUCTIONS`
 ```
